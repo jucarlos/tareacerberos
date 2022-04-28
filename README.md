@@ -1,5 +1,5 @@
 
-![Angular Logo](img\Angular_full_color_logo250.png) 
+![Angular Logo](img/Angular_full_color_logo250.png) 
 
 # Tarea Angular - Cerberos
 
