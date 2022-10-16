@@ -161,13 +161,13 @@ const routes: Routes = [
 
 ### 10. Creación de la estructura para inyectar en el despliegue la configuración
 
-El proyecto tiene que tener debajo de la carpeta app una carpeta llamada __k8s__ , dentro de esta carpeta tendrá otras tres carpetas llamadas 'des', 'pre', 'pro'.
+El proyecto tiene que tener debajo de la carpeta app una carpeta llamada __k8s__  (kubernetes), dentro de esta carpeta tendrá otras tres carpetas llamadas 'des', 'pre', 'pro'.
 
 Dentro de cada una de esas carpetas se crean las carpetas cm/frontconfig y el contenido de esta última carpeta es un fichero llamado keycloak.json con este contenido:
 
 ```
 {
-    "url": "https://sso-cerbero-pre.cm-pre.jccm.es",
+    "url": "https://sso-cerbero-des.cm-pre.jccm.es",
     "realm": "usuarios",
     "clientId": "dashboard"
     
