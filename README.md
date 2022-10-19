@@ -39,7 +39,7 @@ Tenemos que ver que efectivamente la fuente cambia a bootstrap.
 Esta aplicación utiliza las librerías de keycloak
 
 ```
-npm i keycloak-angular keycloak-js
+npm i  keycloak-angular@9.1.0 keycloak-js@16.1.1
 ```
 
 
