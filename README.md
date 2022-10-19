@@ -403,5 +403,7 @@ El fichero app.component.html tiene que quedar así:
 
 ```
 
+### 15. Imagen
+Guardar la carpeta img de este repositorio en assets.
 
-### 15 - PROBANDO . ¡SUERTE!
+### 16 - PROBANDO . ¡SUERTE!
